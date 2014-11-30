@@ -1,2 +1,1 @@
-cd /home/ubuntu/acadslate/
-npm install
+npm install /home/ubuntu/acadslate
