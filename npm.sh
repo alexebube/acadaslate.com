@@ -1,4 +1,3 @@
 !#/bin/bash
-clear
-
+cd /home/ubuntu/acadslate/
 npm install
