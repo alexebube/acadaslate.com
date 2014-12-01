@@ -35,7 +35,8 @@ keystone.init({
 	'session': true,
 	'auth': true,
 	'user model': 'User',
-	'cookie secret': 'fSKCao_y1qK=s|]-_CR=AzyT!{=J`ChJfWh:ZRp7xk2k%KuON3`|2cLeE*[=9fZD'
+	'cookie secret': 'fSKCao_y1qK=s|]-_CR=AzyT!{=J`ChJfWh:ZRp7xk2k%KuON3`|2cLeE*[=9fZD',
+	'env': 'production'
 
 });
 
