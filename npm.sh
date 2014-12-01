@@ -1,1 +1,0 @@
-npm install /home/ubuntu/acadslate
